@@ -1,16 +1,15 @@
-## Hi there 👋
+# IT Infrastructure Lab
 
-<!--
-**SysAdmin-HomeLab/SysAdmin-HomeLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains hands-on IT infrastructure including IT support, system administration, networking, and cybersecurity lab documentation.
 
-Here are some ideas to get you started:
+## Topics Covered
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- IT Support troubleshooting
+- Linux system administration
+- Windows Server basics
+- Networking fundamentals
+- Cybersecurity basics
+  
+
+## Goal
+To build practical experience through home lab environments and structured documentation while preparing for IT support and system administration roles.
